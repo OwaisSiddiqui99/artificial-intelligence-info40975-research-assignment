@@ -1,5 +1,8 @@
 # INFO40975 Artificial Intelligence
 
+Muhammad Owais Ahmed Siddiqui
+Sheridan College
+
 Video:
 
 https://www.loom.com/share/b513d8d9fc35498bac70f3bb63a80d6e
